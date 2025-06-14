@@ -1,6 +1,10 @@
 # Discrete Mathematics
-## Ford-Fulkerson
-## Path-finding
-### Bellman-Ford
-### Floyd-Warschall
-## Max-Cut
+## Ford-Fulkerson method
+## Maximum Cut problem solvers
+- Bruteforce
+- Gurobi Solver
+- Gomeans-Williamson
+- QAOA
+## Path-finding algorithms
+- Bellman-Ford
+- Floyd-Warschall
